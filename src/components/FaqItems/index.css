@@ -1,0 +1,32 @@
+.faqListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-color: #9aa5b1;
+  border-radius: 5px;
+}
+
+.faqContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px;
+}
+
+.question {
+  color: black;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+
+.btn {
+  border: none;
+  cursor: pointer;
+}
+
+.para {
+  color: #52606d;
+  font-weight: bold;
+  font-family: "Roboto";
+}
